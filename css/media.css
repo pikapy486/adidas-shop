@@ -67,6 +67,7 @@
         display: block;
         position: absolute;
         transition: 0.5s;
+        box-shadow: 0px 0px 2px white;
     }
     .hamburger span:nth-child(1) {
         top: 0px;
